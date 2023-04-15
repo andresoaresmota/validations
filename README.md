@@ -1,4 +1,5 @@
-#resultado da pesquisa;
+# pesquisa sobre Validations;
+# Andre Araujo: https://sebhastian.com/sequelize-validate/
 
 em breve explicacao, temos dois tipos a Validations e a Constraints
 
